@@ -104,7 +104,7 @@ Create a `.env` file in the root directory:
 
 ```bash
 ACCESS_TOKEN=your_page_access_token_here
-VERIFY_TOKEN=greet123
+VERIFY_TOKEN=your_verify_token
 PORT=5000
 ```
 
