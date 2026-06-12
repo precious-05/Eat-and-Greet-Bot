@@ -302,7 +302,7 @@ For task submission, ensure the following:
 
 **Alina Liaquat**
 
-- Internship: CodeCelix - AI Automation Intern
+- Internship: CodeCelix - AI Intern
 - Date: 12 June 2026
 
 ---
@@ -315,4 +315,3 @@ This project is for educational purposes as part of internship requirements.
 
 ---
 
-Koi change chahiye? Batao! 💪
